@@ -5,8 +5,11 @@ Right now the Repository has 2 codes one is with a Gui and the Other is the Term
 
 Dependencies :
 pip install PyPDF2
+
 pip install langchain-ollama
+
 pip install os-sys
+
 pip install tk
 
 Future Plans :
